@@ -11,8 +11,11 @@ This project scrapes the results of the recently concluded Lok Sabha elections f
 2. **Data Cleaning**: Extract relevant data into a structured format.
 3. **Data Analysis**: Generate insights and visualizations from the data.
 
+
+
 ## Key Insights
 Here are 10 key insights derived from the data:
+
 
 1. **Top Party**: Bharatiya Janata Party (BJP) has won the most seats.
 2. **Runner-Up**: Indian National Congress (INC) is the second highest in terms of seats won.
